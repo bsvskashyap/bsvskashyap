@@ -96,8 +96,8 @@ Personal portfolio showcasing projects, research publications, and professional 
 **Master of Science in Geoinformatics**  
 *Focus: Machine Learning, Remote Sensing, GeoAI*
 
-**Bachelor of Engineering in Computer Science**  
-*Specialization: Artificial Intelligence & Data Science*
+**Bachelor of Engineering in Mechanical Engineering **  
+*Specialization: Energy*
 
 ---
 
@@ -105,9 +105,8 @@ Personal portfolio showcasing projects, research publications, and professional 
 
 - 🌐 **Portfolio**: [bsvskashyap.github.io/kashyap_balakavi-portfolio](https://bsvskashyap.github.io/kashyap_balakavi-portfolio)
 - 💼 **LinkedIn**: [linkedin.com/in/kashyap-balakavi](https://linkedin.com/in/kashyap-balakavi)
-- 📧 **Email**: kashyap.balakavi@example.com
+- 📧 **Email**: kashyap.balakavi@gmail.com
 - 🔬 **Google Scholar**: [View Publications](https://scholar.google.com)
-- 🐦 **Twitter**: [@kashyapbalakavi](https://twitter.com/kashyapbalakavi)
 
 ---
 
@@ -127,7 +126,7 @@ I'm always interested in collaborating on:
 - 🌍 Environmental monitoring and climate change research
 - 📊 Open-source GeoAI tools and frameworks
 
-**Open to**: Research collaborations, consulting opportunities, speaking engagements
+**Open to**: Full-time roles, Research collaborations, consulting opportunities, speaking engagements
 
 ---
 
