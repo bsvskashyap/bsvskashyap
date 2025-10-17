@@ -19,7 +19,6 @@ With **4+ years of experience**, I specialize in deploying **deep learning** and
 - 🔥 Developed **wildfire damage assessment** using U-Net/U-Net-GRU (NASA GeoAI project), lifting accuracy by **10%**
 - 🖼️ Built **GANs in PyTorch** for super-resolution (30m → 3m imagery) in disaster monitoring
 - 🌐 Created **ICTV Visual Taxonomy Browser** (D3.js), now used globally, boosting engagement and research conversion
-- 📊 Improved **donor retention (+14%)** and **ROI (+10%)** via predictive modeling and interactive dashboards
 
 ---
 
