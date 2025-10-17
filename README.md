@@ -1,5 +1,4 @@
 # 👋 Hi, I'm **Kashyap Balakavi**
-
 ### Machine Learning Researcher | GeoAI Specialist | Remote Sensing Expert
 
 > *"Transforming Earth observation data into actionable intelligence through the power of artificial intelligence"*
@@ -55,51 +54,25 @@ With a strong foundation in **computer vision** and **spatial analytics**, I foc
 ## 🚀 Impact Delivered
 
 ✨ **Developed AI models** for wildfire detection achieving 90%+ accuracy in burnt area segmentation  
-🌍 **Processed petabytes** of satellite imagery for environmental monitoring applications  
-🔬 **Published research** in machine learning and remote sensing domains  
-🛰️ **Contributed to NASA DEVELOP** national program advancing Earth science initiatives  
-📊 **Built production-ready** ML systems deployed for real-world geospatial analytics  
-🎓 **Mentored students** and professionals in AI/ML and remote sensing technologies
-
----
-
-## 💼 Professional Experience
-
-### 🛰️ NASA DEVELOP National Program
-**Research Fellow | Earth Science Applications**
-- Conducted cutting-edge research applying machine learning to satellite imagery analysis
-- Collaborated with interdisciplinary teams on environmental monitoring projects
-- Developed geospatial models for climate change impact assessment
-- Delivered actionable insights to stakeholders and partner organizations
-
-### 🔬 Machine Learning Research
-**Independent Researcher | GeoAI & Remote Sensing**
-- Advanced research in deep learning for satellite image analysis
-- Specialized in burnt area detection, land cover classification, and change detection
-- Published findings in peer-reviewed journals and conferences
-- Open-sourced ML models and datasets for community benefit
+🌍 **Processed petabytes** of satellite imagery data for large-scale environmental monitoring  
+🎯 **Published research** on novel deep learning approaches in remote sensing applications  
+🔧 **Built production-ready** ML pipelines deployed on cloud infrastructure  
 
 ---
 
 ## 🌟 Featured Projects
 
-### 🔥 [Satellite Burnt Area Segmentation](https://github.com/bsvskashyap/satellite-burnt-area-segmentation)
-Deep learning framework for wildfire detection and burnt area mapping using Sentinel-2 satellite imagery. Implements state-of-the-art segmentation models (U-Net, DeepLabV3+) with custom loss functions optimized for imbalanced geospatial data.
+### 🔥 [Wildfire Detection System](https://github.com/bsvskashyap/Wildfire-Detection-System)
+Deep learning-based wildfire detection and monitoring system using satellite imagery. Achieves high accuracy in identifying active fires and burnt areas across multiple regions.
 
-**Tech Stack**: Python, PyTorch, GDAL, Google Earth Engine  
-**Impact**: 90%+ accuracy in burnt area detection
+**Tech Stack**: PyTorch, Sentinel-2, Google Earth Engine  
+**Highlights**: Multi-spectral analysis, U-Net architecture, real-time alerting
 
-### 🌐 [GeoAI Nexus](https://github.com/bsvskashyap/geoai-nexus)
-Comprehensive toolkit for advanced geospatial AI applications, featuring pre-trained models, data preprocessing pipelines, and deployment tools for production-ready GeoAI solutions.
+### 🛰️ [Satellite Image Analysis Platform](https://github.com/bsvskashyap/satellite-image-analysis)
+Comprehensive platform for processing and analyzing satellite imagery using state-of-the-art computer vision techniques and geospatial tools.
 
 **Tech Stack**: TensorFlow, PyTorch, Rasterio, GeoPandas  
 **Features**: Land cover classification, object detection, change detection
-
-### 🏥 [Real-Time Heart Disease Risk Prediction Engine](https://github.com/bsvskashyap/Real-Time-Heart-Disease-Risk-Prediction-Engine)
-ML-powered healthcare analytics system providing real-time cardiovascular risk assessment using ensemble learning techniques and clinical data analysis.
-
-**Tech Stack**: Python, Scikit-learn, Flask, Docker  
-**Achievement**: 85%+ prediction accuracy with interpretable AI
 
 ### 💻 [Portfolio Website](https://bsvskashyap.github.io/kashyap_balakavi-portfolio)
 Personal portfolio showcasing projects, research publications, and professional experience with modern responsive design.
