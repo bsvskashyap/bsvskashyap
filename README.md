@@ -54,7 +54,7 @@ With a strong foundation in **computer vision** and **spatial analytics**, I foc
 ## 🚀 Impact Delivered
 
 ✨ **Developed AI models** for wildfire detection achieving 90%+ accuracy in burnt area segmentation  
-🌍 **Processed petabytes** of satellite imagery data for large-scale environmental monitoring  
+🌍 **Processed Gigabytes** of satellite imagery data for large-scale environmental monitoring  
 🎯 **Published research** on novel deep learning approaches in remote sensing applications  
 🔧 **Built production-ready** ML pipelines deployed on cloud infrastructure  
 
