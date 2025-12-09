@@ -53,7 +53,7 @@ Personal portfolio showcasing projects, research publications, and professional 
 
 - **Machine Learning for Satellite Imagery Analysis**: Advanced deep learning techniques for Earth observation
 - **Burnt Area Segmentation Using Deep Learning**: Novel approaches to wildfire detection from multi-spectral data
-- [PLOS ONE](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327125), [Sensors](https://www.mdpi.com/1424-8220/25/10/3009), [VAHC](https://ieeexplore.ieee.org/document/10356805), [Book Chapter] (https://www.taylorfrancis.com/chapters/edit/10.1201/9781003396253-4/super-resolution-enhancement-landsat-satellite-data-using-generative-adversarial-networks-gans-unet-deep-learning-algorithms-sai-balakavi)
+- [PLOS ONE](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0327125), [Sensors](https://www.mdpi.com/1424-8220/25/10/3009), [VAHC](https://ieeexplore.ieee.org/document/10356805), [Book Chapter]https://www.taylorfrancis.com/chapters/edit/10.1201/9781003396253-4/super-resolution-enhancement-landsat-satellite-data-using-generative-adversarial-networks-gans-unet-deep-learning-algorithms-sai-balakavi)
 ---
 
 ## 🤝 Connect
