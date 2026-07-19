@@ -10,7 +10,7 @@
 
 ## 🌟 About
 
-With **4+ years of experience**, I specialize in deploying **deep learning** and **MLOps pipelines** (PyTorch, TensorFlow, MLflow) that transform massive, complex datasets into **scalable, production-ready solutions**. My work delivers **measurable impact**—cutting processing time from days to hours, and enabling real advances in research and operations.
+With **3+ years of experience**, I specialize in deploying **deep learning** and **MLOps pipelines** (PyTorch, TensorFlow, MLflow) that transform massive, complex datasets into **scalable, production-ready solutions**. My work delivers **measurable impact**—cutting processing time from days to hours, and enabling real advances in research and operations.
 
 ---
 
@@ -18,8 +18,7 @@ With **4+ years of experience**, I specialize in deploying **deep learning** and
 
 - 🔥 Developed **wildfire damage assessment** using U-Net/U-Net-GRU (NASA GeoAI project), lifting accuracy by **10%**
 - 🖼️ Built **GANs in PyTorch** for super-resolution (30m → 3m imagery) in disaster monitoring
-- 🌐 Created **ICTV Visual Taxonomy Browser** (D3.js), now used globally, boosting engagement and research conversion
-
+- 🌐 Created **ICTV Visual Taxonomy Browser** (D3.js), now used globally, boosting engagement and research conversion3
 ---
 
 ## 🛠️ Technical Stack
